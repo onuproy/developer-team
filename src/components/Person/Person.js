@@ -7,11 +7,15 @@ const Person = (props) => {
 
     return (
         <div className="single-person-item">
+            <div className="profile-image">
             <img src={img} alt="" />
-            <h2>Name:{name} </h2>
-            <h3>Designation: {designation} </h3>
+            </div>
+            <h2>Name: {name} </h2>
+            <h4>Designation: {designation} </h4>
             <h4>Id: {id} </h4>
             <h4>Salary {salary}</h4>
+            <button onClick={() => props.handleAddToCart(props.person)}
+                className="bnt-regular"> <i class="fa fa-address-book" aria-hidden="true"></i> Add to cart</button>
         </div>
     );
 };

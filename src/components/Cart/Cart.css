@@ -1,0 +1,24 @@
+.chart_area {
+    padding: 20px;
+    background: #F5F7F9;
+    margin-top: 45px;
+    border-radius: 10px;
+    box-shadow: 0 0 9px #ddd;
+}
+h5{
+    margin: 0;
+}
+.chart_area h5 {
+    font-size: 27px;
+}
+p {
+    font-size: 18px;
+    font-weight: 500;
+}
+.chart_area li {
+    list-style: none;
+    font-size: 17px;
+    line-height: 29px;
+    color: #000;
+    font-weight: 400;
+}

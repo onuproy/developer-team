@@ -1,0 +1,49 @@
+.single-person-item {
+    background:#F5F7F9;
+    margin: 13px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 0 9px #ddd;
+    padding: 15px;
+}
+.profile-image {
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+    margin: auto;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.profile-image img {
+    object-fit: cover;
+    width: 100%;
+}
+h2, h3, h4 {
+    margin: 0;
+    padding: 0;
+}
+.single-person-item h2 {
+    font-size: 22px;
+    font-weight: 500;
+    padding-bottom: 9px;
+}
+
+.single-person-item h4 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+}
+button.bnt-regular {
+    background: #6747E6;
+    color: #FFF;
+    font-size: 17px;
+    margin-top: 15px;
+    border: 1px solid #DDD;
+    padding: 10px 25px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+i.fa.fa-address-book {
+    margin-right: 10px;
+}

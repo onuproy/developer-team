@@ -4,7 +4,7 @@
         "name": "Hugo First",
         "designation": "Web Developer",
         "id": "800397",
-        "salary": "5892",
+        "salary": 5892,
         "img": "https://i.ibb.co/DrxjRHQ/robertson.jpg"
     },
      {
@@ -12,7 +12,7 @@
         "name": "Anne Thurium",
         "designation": "Web Designer",
         "id": "800398",
-        "salary": "85871",
+        "salary": 5892,
         "img": "https://i.ibb.co/CtRFCDY/yolanda.jpg"
     },
      {
@@ -20,7 +20,7 @@
         "name": "Frank N. Stein",
         "designation": "Developer",
         "id": "800399",
-        "salary": "85471",
+        "salary": 85471,
         "img": "https://i.ibb.co/JBHSVMV/townsley.jpg"
     },
      {
@@ -28,7 +28,7 @@
         "name": "Pat Thettick",
         "designation": "Web Developer",
         "id": "8003100",
-        "salary": "98888",
+        "salary": 98888,
         "img": "https://i.ibb.co/F5HMJG7/pelto.jpg"
     },
      {
@@ -36,7 +36,7 @@
         "name": "Percy Kewshun",
         "designation": "Graphic Designer",
         "id": "8003101",
-        "salary": "99999",
+        "salary": 99999,
         "img": "https://i.ibb.co/WcgVjJC/rachel.jpg"
     },
      {
@@ -44,7 +44,7 @@
         "name": "Rod Knee",
         "designation": "Developer",
         "id": "8003102",
-        "salary": "5892",
+        "salary": 5892,
         "img": "https://i.ibb.co/R772Kws/dan.jpg"
     },
     {
@@ -52,7 +52,7 @@
         "name": "Wes Yabinlatelee",
         "designation": "Developer",
         "id": "8003103",
-        "salary": "88888",
+        "salary": 88888,
         "img": "https://i.ibb.co/xz76XXG/jennifer.jpg"
     },
      {
@@ -60,7 +60,7 @@
         "name": "Anne Thurium",
         "designation": "react developer",
         "id": "8003104",
-        "salary": "99999",
+        "salary": 99999,
         "img": "https://i.ibb.co/LdLgwdw/p-jon.jpg"
     },
      {
@@ -68,7 +68,7 @@
         "name": "Colin Sik",
         "designation": "Java Developer",
         "id": "8003105",
-        "salary": "88888",
+        "salary": 88888,
         "img": "https://i.ibb.co/z6ZxNmy/doug.jpg"
     },
      {
@@ -76,7 +76,7 @@
         "name": "Greg Arias",
         "designation": "Wordpress Developer",
         "id": "8003106",
-        "salary": "555555",
+        "salary": 555555,
         "img": "https://i.ibb.co/jVF9LGz/john.jpg"
     },
      {
@@ -84,7 +84,7 @@
         "name": "Jen Tile",
         "designation": "Php Developer",
         "id": "8003107",
-        "salary": "10000",
+        "salary": 10000,
         "img": "https://i.ibb.co/tXVs1Yb/allen.jpg"
     },
      {
@@ -92,7 +92,7 @@
         "name": "Simon Sais",
         "designation": "Javascript Developer",
         "id": "8003108",
-        "salary": "88888",
+        "salary": 88888,
         "img": "https://i.ibb.co/mTBbMBF/jon.jpg"
     }
 ]
