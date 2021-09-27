@@ -1,0 +1,17 @@
+.developer-area{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    max-width: 1240px;
+    margin: auto;
+}
+.cart-container {
+    padding: 20px;
+    background: #DEF1EC;
+}
+.profile-item {
+    padding-top: 30px;
+    padding-right: 15px;
+    border-right: 1px solid #DDD;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
