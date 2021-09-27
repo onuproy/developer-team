@@ -1,0 +1,24 @@
+.header-area {
+    text-align: center;
+    background: #F5F7F9;
+    padding: 23px;
+}
+.header-area h1 {
+    margin: 0;
+    font-size: 49px;
+    color: #6747E6;
+}
+.header-area p {
+    font-size: 19px;
+    max-width: 500px;
+    margin: auto;
+    padding: 15px 0px;
+    font-weight: 400;
+    color: #000;
+}
+.header-area strong {
+    font-weight: 700;
+    font-size: 29px;
+    line-height: normal;
+    color: #12005F;
+}
