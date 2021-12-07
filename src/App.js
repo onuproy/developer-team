@@ -1,8 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header/Header';
-import Developer from './components/Developer/Developer';
 
+
+
+import Developer from './components/Developer/Developer';
 
 function App() {
   return (
@@ -12,5 +14,5 @@ function App() {
     </div>
   );
 }
-
 export default App;
+
